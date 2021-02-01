@@ -1,0 +1,25 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+# app/Http/Controllers/UserController.php
+# app/Models/User.php
+resources/views/admin/users/add.blade.php
+resources/views/admin/users/edit.blade.php
+resources/views/admin/users/show.blade.php
+resources/views/admin/users/show_table.blade.php
+# resources/views/layouts/backend/app.blade.php
+# routes/web.php
+# app/Models/User.php
+# resources/views/layouts/backend/app.blade.php
+# routes/web.php
+# *.php

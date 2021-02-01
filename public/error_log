@@ -1,0 +1,1 @@
+[31-Jan-2021 18:33:24 UTC] PHP Fatal error:  Cannot use App\User as User because the name is already in use in /home/getbrand/dp.getbrandedwork.ro/app/Http/Controllers/Auth/RegisterController.php on line 13
